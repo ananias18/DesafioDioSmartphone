@@ -1,0 +1,14 @@
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.exe
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.deps.json
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.dll
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.pdb
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.dll
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\obj\Debug\net6.0\refint\DesafioPOO.dll
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.pdb
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+D:\Desenvolvimento Visualcode\Desafio Dio\Smartphone\trilha-net-poo-desafio\obj\Debug\net6.0\ref\DesafioPOO.dll
